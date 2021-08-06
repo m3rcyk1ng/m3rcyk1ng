@@ -20,6 +20,8 @@
 
 ```javascript
 const gridnev = {
+  country: 'Moscow',
+  ages: 24,
   code: ["Javascript", "HTML programmer"],
   myPlans: ["Frontend developer"],
   technologies: {
