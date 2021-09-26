@@ -21,7 +21,7 @@
 ```javascript
 const gridnev = {
   city: 'Moscow',
-  age: 24,
+  age: 25,
   code: ["Javascript", "HTML programmer"],
   myPlans: ["Frontend developer"],
   technologies: {
