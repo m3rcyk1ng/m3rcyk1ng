@@ -15,9 +15,9 @@
 [![INSTAGRAM](https://i.imgur.com/x1Icklo.png)](https://www.instagram.com/vova.gridnev/)
 [![Telegram](https://i.imgur.com/NBn2VyL.png)](https://t.me/unmercy)
 
-📖 Self learning about everything
-📷 Like taking photos and traveling
-🎮 Love gaming
+* 📖 Self learning about everything
+* 📷 Like taking photos and traveling
+* 🎮 Love gaming
 
 ### <img src="https://img1.picmix.com/output/stamp/tiny/6/8/7/7/1257786_07917.gif" width="50"> A little more about me...
 
