@@ -10,7 +10,7 @@
 <p><img src="https://d2w9rnfcy7mm78.cloudfront.net/751685/original_ade25d916321606c246dbbe67886c3ee.gif?1477860871?bc=1" width="40">
 <em> Studied at <a href="https://praktikum.yandex.ru/">PRAKTIKUM.YANDEX</a> 
 </em></p></p>
-<em> Now I work in <a href="https://www.gravitel.ru/">Gravitel</a><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d2184555-e20e-4b10-9d9c-efd19284cba5/d5gcmic-a961a215-d9b3-479a-8fdf-7082e2aac027.gif" width="40">
+<em align="center"> Now I work in <a href="https://www.gravitel.ru/">Gravitel</a><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d2184555-e20e-4b10-9d9c-efd19284cba5/d5gcmic-a961a215-d9b3-479a-8fdf-7082e2aac027.gif" width="40"></em>
 
 [![INSTAGRAM](https://i.imgur.com/x1Icklo.png)](https://www.instagram.com/vova.gridnev/)
 [![Telegram](https://i.imgur.com/NBn2VyL.png)](https://t.me/unmercy)
