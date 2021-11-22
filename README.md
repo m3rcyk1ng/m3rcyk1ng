@@ -23,11 +23,11 @@ const gridnev = {
   city: 'Moscow',
   age: 25,
   code: ["Javascript", "HTML programmer"],
-  myPlans: ["Frontend developer"],
+  myWork: ["Frontend developer"],
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["Material UI", "CSS-in-JS", "SCSS"],
+      css: ["MaterialUI", "CSS-in-JS", "SCSS"],
     },
     backEnd: {
       API: ["RestAPI", "GraphQL"],
