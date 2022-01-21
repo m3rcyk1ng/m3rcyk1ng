@@ -38,7 +38,7 @@ const gridnev = {
       js: ["Node.JS", "express"],
     },
     devOps: ["Nginx"],
-    misc: ["Git", "Figma"],
+    misc: ["Git", "Figma", "Postman"],
     DB: ["MongoDB"],
   },
   produce: ["SPA", "PWA"],
