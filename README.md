@@ -34,7 +34,7 @@ const gridnev = {
       libraries: ["MaterialUI"],
     },
     backEnd: {
-      API: ["RestAPI", "GraphQL"],
+      API: ["RestAPI", "Apollo GraphQL"],
       js: ["Node.JS", "express"],
     },
     devOps: ["Nginx"],
