@@ -30,7 +30,7 @@ const gridnev = {
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["CSS-in-JS", "SCSS", MakeStylesMUI],
+      css: ["CSS-in-JS", "SCSS", "MakeStyles MUI"],
       libraries: ["MaterialUI"],
     },
     backEnd: {
