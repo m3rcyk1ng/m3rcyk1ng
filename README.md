@@ -24,7 +24,7 @@
 ```javascript
 const gridnev = {
   city: 'Moscow',
-  birthDate: 21.09.1996,
+  birthDate: '21.09.1996',
   code: ["Javascript/Typescript", "HTML programmer"],
   myWork: ["Frontend developer"],
   technologies: {
