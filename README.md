@@ -25,25 +25,25 @@
 const gridnev = {
   city: 'Moscow',
   birthDate: '21.09.1996',
-  code: ["Javascript/Typescript", "HTML programmer"],
-  myWork: ["Frontend developer"],
+  code: ['Javascript/Typescript', 'HTML programmer'],
+  myWork: 'Frontend developer',
   technologies: {
     frontEnd: {
-      js: ["React"],
-      css: ["CSS-in-JS", "SCSS", "MakeStyles MUI"],
-      libraries: ["MaterialUI"],
+      js: ['React'],
+      css: ['CSS-in-JS', 'SCSS', 'MakeStyles MUI'],
+      libraries: ['MaterialUI'],
     },
     backEnd: {
-      API: ["RestAPI", "Apollo GraphQL"],
-      js: ["Node.JS", "express"],
+      API: ['RestAPI', 'GraphQL/Apollo'],
+      js: ['Node.JS', 'express'],
     },
-    devOps: ["Nginx"],
-    misc: ["Git", "Figma", "Postman"],
-    DB: ["MongoDB"],
+    devOps: ['Nginx'],
+    misc: ['Git', 'Figma', 'Postman'],
+    DB: ['MongoDB'],
   },
-  produce: ["SPA", "PWA"],
+  produce: ['SPA', 'PWA'],
   challenge:
-    "Be better than @Y-Georgy 😉",
+    'Be better than @Y-Georgy 😉',
 };
 ```
 ![Mabel](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/af2f2f71-d0cc-4f12-a995-ba904be665f4/d8x5a29-0ca98a23-7b3b-4a73-ae54-6992a5231e01.gif) Top Senior Pancake Developer in the world → [155cm of happiness](https://github.com/reenaBoo)
